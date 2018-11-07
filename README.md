@@ -14,7 +14,7 @@ The proposed method is implemented through Jupyter Notebook. The required packag
 1) modify the path  by the lcoation of the files in the folder of 'dataset';
 2) Run the function of 'Gibbs_sampling' 'mean_field' of the matlab codes;
 3) The 'Variable Elimination' method is in the Jupyter file of 'Proj1'
-```
+ 
  
 
 ## Bayesian Network
