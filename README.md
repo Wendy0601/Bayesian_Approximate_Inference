@@ -1,6 +1,8 @@
 # Bayesian_Approximate_Inference
-This project apply the Gibbs sampling and mean field methods to compute the inference and MAP inference. In addition, the exact results are 
-computed by the variable elimination method through Jupyter Notebook.
+This project applies three methods to compute MAP inference and posterior inference
+1) the Gibbs sampling
+2) mean field methods to compute the inference and . 
+3) In addition, the exact results are computed by the variable elimination method through Jupyter Notebook.
 ==============================================================================
 Code and report of ["Bayesian_Approximate_Inference"] 
 
